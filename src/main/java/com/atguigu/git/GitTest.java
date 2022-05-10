@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("正常合并分支");
         System.out.println("不正常合并分支 master");
         System.out.println("不正常合并分支 hot fix");
+        System.out.println("push test");
     }
 }
