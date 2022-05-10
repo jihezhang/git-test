@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("张霁赫要加油啊");
         System.out.println("张霁赫要开心啊");
         System.out.println("张霁赫要牛逼啊");
+        System.out.println("正常合并分支");
     }
 }
